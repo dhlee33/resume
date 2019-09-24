@@ -63,3 +63,5 @@ resume_theme:                   default
 # to _config.yml are only recognized when the server starts
 
 theme: jekyll-theme-cayman
+url: "https://ydh1304.github.io"
+baseurl: "resume"
