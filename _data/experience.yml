@@ -1,19 +1,13 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Easi6 ((주)이지식스)
+  position: Web Developer(Full Stack)
+  duration: Jan, 2018 &mdash; Feb, 2018, Jul, 2018 &mdash; Aug, 2018.
+  summary: 차량 서비스 easi6의 어드민 툴 프론트엔드, 백엔드 개발에 참여함. 이지식스의 싱가포르 자회사인 MVL Foundation의 블록체인 모빌리티 생태계 MVL의 블로그 직접 개발과 출시함.
+
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Easi6 / MVL ((주)이지식스)
+  position: iOS Developer
+  duration: Sep, 2018 &mdash; Present, 
+  summary: TADA driver/rider iOS앱 개발에 참여함. TADA앱의 전반적인 구조개편과 ReactorKit을 이용한 Reactive패턴, 의존성 주입을 통한 Clean Architecture 도입을 주도함.
