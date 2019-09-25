@@ -4,8 +4,8 @@
   description: Swift, RxSwift
 
 # Communications strategy
-- skill: JavaScript
-  description: es6, React.js, Node.js
+- skill: Web
+  description: JavaScript, TypeScript, ES6, React.js, Node.js
 
 # Digital content development and creation
 - skill: Database
