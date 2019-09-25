@@ -1,7 +1,7 @@
 # Skills
 # Organizational leadership
-- skill: Swift
-  description: iOS development
+- skill: iOS development
+  description: Swift, RxSwift
 
 # Communications strategy
 - skill: JavaScript
