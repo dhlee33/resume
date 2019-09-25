@@ -23,7 +23,7 @@ resume_contact_address:         "서울"
 resume_header_contact_info:     "서울 • +8201039042305 • i8909278@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>성장하는 개발자.</p>"
+resume_header_intro: "<p>성장하는 개발자. 항상 탐구하고 발전하는 분들과 함께하고 싶습니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,7 +45,7 @@ resume_section_interests:       false
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/ydh1304/resume"
+  resume_github_url:            "https://github.com/ydh1304"
 resume_print_social_links:      true
 
 # Design settings
