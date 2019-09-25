@@ -1,9 +1,5 @@
 # Jobs
 # VP of Global Communications
-- company: Easi6 ((주)이지식스)
-  position: Web Developer(Full Stack)
-  duration: Jan, 2018 &mdash; Feb, 2018, Jul, 2018 &mdash; Aug, 2018.
-  summary: 차량 서비스 easi6의 어드민 툴 프론트엔드, 백엔드 개발에 참여함. 이지식스의 싱가포르 자회사인 MVL Foundation의 블록체인 모빌리티 생태계 MVL의 블로그 직접 개발과 출시함.
 
 
 # Director of Digital Stratgy
@@ -11,3 +7,8 @@
   position: iOS Developer
   duration: Sep, 2018 &mdash; Present, 
   summary: TADA driver/rider iOS앱 개발에 참여함. TADA앱의 전반적인 구조개편과 ReactorKit을 이용한 Reactive패턴, 의존성 주입을 통한 Clean Architecture 도입을 주도함.
+
+- company: Easi6 ((주)이지식스)
+  position: Web Developer(Full Stack)
+  duration: Jan, 2018 &mdash; Feb, 2018, Jul, 2018 &mdash; Aug, 2018.
+  summary: 차량 서비스 easi6의 어드민 툴 프론트엔드, 백엔드 개발에 참여함. 이지식스의 싱가포르 자회사인 MVL Foundation의 블록체인 모빌리티 생태계 MVL의 블로그 직접 개발과 출시함.
