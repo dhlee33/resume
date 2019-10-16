@@ -5,13 +5,13 @@
 # Springfield Community Outreach Group
 - project: TADA driver
   role: iOS 개발자
-  duration: Sep, 2016 &mdash; Present
+  duration: Sep, 2018 &mdash; Present
   url: "https://apps.apple.com/kr/app/tada-driver/id1414948666"
   description: 싱가폴, 베트남 등에서 서비스하는 라이드 헤일링 앱으로, 제로 커미션이 특징임. 앱의 개발, 유지보수, 전반적인 구조개편과 ReactorKit을 이용한 Reactive패턴, 의존성 주입을 통한 Clean Architecture 도입을 주도함.
 
 - project: TADA rider
   role: iOS 개발자
-  duration: Sep, 2016 &mdash; Present
+  duration: Sep, 2018 &mdash; Present
   url: "https://apps.apple.com/kr/app/tada-ride-hailing/id1412329684"
   description: TADA의 라이더 앱. 앱의 개발과 유지보수에 참여.
 
