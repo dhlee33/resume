@@ -3,15 +3,21 @@
 
 
 # Springfield Community Outreach Group
+- project: Azar iOS
+  role: iOS 개발자
+  duration: Nov, 2019 &mdash; Present
+  url: "https://apps.apple.com/us/app/azar-video-chat/id972558973"
+  description: 실시간 영상 채팅 앱 Azar의 iOS 개발자로 참여, 새로운 피쳐 개발과 유지 보수, 코드와 테스트 개선 등의 업무를 진행함. web, rn, ar 관련 협업을 전담, 꾸미기 아이템 개편을 주도하는 등 겸험을 쌓음
+
 - project: TADA driver
   role: iOS 개발자
-  duration: Sep, 2018 &mdash; Present
+  duration: Sep, 2018 &mdash; Nov, 2019
   url: "https://apps.apple.com/kr/app/tada-driver/id1414948666"
   description: 싱가폴, 베트남 등에서 서비스하는 라이드 헤일링 앱으로, 제로 커미션이 특징임. 앱의 개발, 유지보수, 전반적인 구조개편과 ReactorKit을 이용한 Reactive패턴, 의존성 주입을 통한 Clean Architecture 도입을 주도함.
 
 - project: TADA rider
   role: iOS 개발자
-  duration: Sep, 2018 &mdash; Present
+  duration: Sep, 2018 &mdash; Nov, 2019
   url: "https://apps.apple.com/kr/app/tada-ride-hailing/id1412329684"
   description: TADA의 라이더 앱. 앱의 개발과 유지보수에 참여.
 

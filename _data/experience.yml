@@ -3,9 +3,14 @@
 
 
 # Director of Digital Stratgy
+- company: HYPERCONNECT
+  position: iOS Developer
+  duration: Nov, 2019 &mdash; Present.
+  summary: 실시간 영상 채팅 앱 Azar의 iOS 개발자. 여러 팀과 협업하며 새로운 피쳐 개발과 유지 보수, 코드 개선 등의 업무를 진행함.
+
 - company: Easi6 / MVL ((주)이지식스)
   position: iOS Developer
-  duration: Sep, 2018 &mdash; Present, 
+  duration: Sep, 2018 &mdash; Nov, 2019, 
   summary: TADA driver/rider iOS앱 개발에 참여함. TADA앱의 전반적인 구조개편과 ReactorKit을 이용한 Reactive패턴, 의존성 주입을 통한 Clean Architecture 도입을 주도함.
 
 - company: Easi6 ((주)이지식스)

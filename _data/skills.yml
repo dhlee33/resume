@@ -5,8 +5,8 @@
 
 # Communications strategy
 - skill: Web
-  description: JavaScript, TypeScript, ES6, React.js, Node.js
+  description: React.js, Node.js
 
 # Digital content development and creation
 - skill: Database
-  description: MySQL, MongoDB
+  description: SQLite, MySQL, MongoDB
