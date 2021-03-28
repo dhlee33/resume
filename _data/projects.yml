@@ -26,12 +26,6 @@
   duration: 2019 &mdash; Present
   url: "https://github.com/dustinios/CleanArchitectureExample"
   description: Clean Architecture GitHub Search Example
- 
-- project: GraphQL-CRUD
-  role: iOS dev
-  duration: 2019 &mdash; Present
-  url: "https://github.com/dustinios/GraphQL-CRUD"
-  description: GraphQL CRUD Example using apolo
 
 - project: MVL Hompage
   role: web frontend dev
