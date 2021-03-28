@@ -7,7 +7,7 @@
   role: iOS dev
   duration: Nov, 2019 &mdash; Present
   url: "https://apps.apple.com/us/app/azar-video-chat/id972558973"
-  description: 실시간 영상 채팅 앱 Azar의 iOS 개발자로 참여, 새로운 피쳐 개발과 유지 보수, 코드와 테스트 개선 등의 업무를 진행함. web, rn, ar 관련 협업을 전담, 꾸미기 아이템 개편을 주도하는 등 겸험을 쌓음
+  description: 실시간 영상 채팅 앱 Azar의 iOS 개발자로 참여. 새로운 피쳐 개발과 유지 보수, 코드와 테스트 개선 등의 업무를 진행함. web, rn, ar 관련 협업을 전담, 꾸미기 아이템 개편을 주도하는 등 경험을 쌓음
 
 - project: TADA driver
   role: iOS dev
@@ -25,17 +25,17 @@
   role: iOS dev
   duration: 2019 &mdash; Present
   url: "https://github.com/dustinios/CleanArchitectureExample"
-  description: Clean Architecture GitHub Search Example
+  description: Clean Architecture github search example
 
 - project: MVL Hompage
   role: web frontend dev
   duration: Jul, 2018 &mdash; Aug, 2018
   url: "https://mvlchain.io/"
-  description: 홈페이지 개발에 참여, 블로그 개발과 출시. React.js + Wordpress 사용
+  description: 홈페이지 개발에 참여, 블로그 개발과 출시. React.js + Wordpress
 
 - project: TADA Admin Tool / Backend
   role: web fullstack dev
   duration: Jan, 2018 &mdash; Aug, 2018.
-  description: 홈페이지 개발에 참여, 블로그 개발과 출시. React.js / Node.js 사용
+  description: TADA Driver / Rider의 어드민 툴 개발과 유지보수에 참여. React.js / Node.js
   
   
